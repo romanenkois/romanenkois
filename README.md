@@ -1,5 +1,7 @@
 # romanenkois
 
+### You can contact me by [romanenkoisnot@gmail.com](mailto:romanenkoisnot@gmail.com)
+
 ### Hi, my name is Illia Romanenko, i am a web-developer
 
 I really enjoy bringing my app ideas into life. 
